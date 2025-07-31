@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavprakash&label=Profile%20views&color=0e75b6&style=flat" alt="pallavprakash" /> </p>
 
-- 🔭 I’m currently working on **Banana Disease Detection Website integrated with MobileNetV2 model**
+- 🔭 I’m currently working on **Plant Disease Detection Website and MATHletics: Grade-Wise Learning Through Fun Games **
 
-- 🌱 I’m currently learning **C++** and **Deep Learning**
+- 🌱 I have learnt **C++** and **Deep Learning** and imporving myself with time in both of them
 
 - 📫Email me at **pallavprakashbth@gmail.com**
 
